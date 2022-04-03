@@ -1,0 +1,91 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.intro {
+    padding-top: 30px;
+    padding-bottom: -10px;
+}
+
+.table {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    text-align: left;
+    border: 1px solid #57c9de;
+}
+
+th, td {
+    padding: 10px;
+}
+
+thead {
+    background-color: #57c9de;
+}
+
+/*Colours section*/
+
+.colour {
+    padding: 40px;
+
+}
+
+#colour-one {
+    background-color: #fde615;
+}
+
+#colour-two {
+    background-color: #ff6f08;
+}
+
+#colour-three {
+    background-color: #ff0808;
+}
+
+#colour-four {
+    background-color: #1541f3;
+}
+
+#colour-five {
+    background-color: #349f22;
+}
+
+#colour-six {
+    background-color: #8a2abd;
+}
+
+#colour-seven {
+    background-color: #a4b0b2;
+}
+
+#colour-eight {
+    background-color: #000000;
+}
+
+/*Fonts section*/
+#fonts-section, #headings-section {
+    position: relative;
+    top: 100px;
+}
+
+.roboto-condensed {
+    font-family: 'Roboto-Condensed';
+}
+
+.anybody {
+    font-family: anybody;
+}
+
+.IBM-Plex-Mono {
+    font-family: 'IBM Plex Mono';
+}
+
+.arial {
+    font-family: Arial;
+}
+
+.times-new-roman {
+    font-family: 'Times New Roman';
+}
